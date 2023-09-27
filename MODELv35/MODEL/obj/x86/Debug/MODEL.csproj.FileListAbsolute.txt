@@ -1,0 +1,6 @@
+D:\BOSFOR\Projeler Bilal\MODELv35\MODEL\bin\x86\Debug\MODEL.dll
+D:\BOSFOR\Projeler Bilal\MODELv35\MODEL\bin\x86\Debug\MODEL.pdb
+D:\BOSFOR\Projeler Bilal\MODELv35\MODEL\obj\x86\Debug\MODEL.csproj.CoreCompileInputs.cache
+D:\BOSFOR\Projeler Bilal\MODELv35\MODEL\obj\x86\Debug\MODEL.dll
+D:\BOSFOR\Projeler Bilal\MODELv35\MODEL\obj\x86\Debug\MODEL.pdb
+D:\BOSFOR\Projeler Bilal\MODELv35\MODEL\obj\x86\Debug\MODEL.csprojAssemblyReference.cache

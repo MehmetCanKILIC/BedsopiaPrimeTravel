@@ -1,0 +1,132 @@
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\Bedsopia Prime Travel.dll.config
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\Bedsopia Prime Travel.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\Bedsopia Prime Travel.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\csc.exe
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\csc.exe.config
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\csc.rsp
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\csi.exe
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\csi.exe.config
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\csi.rsp
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Console.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Net.Http.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\vbc.exe
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\vbc.exe.config
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\vbc.rsp
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\Newtonsoft.Json.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\MODEL.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\Newtonsoft.Json.xml
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\obj\Release\Bedsopia Prime Travel.csproj.AssemblyReference.cache
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\obj\Release\Bedsopia Prime Travel.csproj.CoreCompileInputs.cache
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\obj\Release\Bedsopia Prime Travel.csproj.CopyComplete
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\obj\Release\Bedsopia Prime Travel.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\obj\Release\Bedsopia Prime Travel.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\BouncyCastle.Crypto.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\itextsharp.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\itextsharp.xml
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\Bedsopia Prime Travel.dll.config
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\Bedsopia Prime Travel.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\Bedsopia Prime Travel.pdb
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\csc.exe
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\csc.exe.config
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\csc.rsp
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\csi.exe
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\csi.exe.config
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\csi.rsp
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.AppContext.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Console.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.IO.Compression.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Net.Http.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Net.Sockets.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.ValueTuple.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\vbc.exe
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\vbc.exe.config
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\vbc.rsp
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\VBCSCompiler.exe
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\BouncyCastle.Crypto.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\itextsharp.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\MODEL.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\Newtonsoft.Json.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\MODEL.pdb
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\itextsharp.xml
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\Newtonsoft.Json.xml
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\obj\Release\Bedsopia Prime Travel.csproj.AssemblyReference.cache
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\obj\Release\Bedsopia Prime Travel.csproj.CoreCompileInputs.cache
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\obj\Release\Bedsopia Prime Travel.csproj.CopyComplete
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\obj\Release\Bedsopia Prime Travel.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\Bedsopia Prime Travel\obj\Release\Bedsopia Prime Travel.pdb

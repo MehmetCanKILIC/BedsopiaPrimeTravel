@@ -1,0 +1,91 @@
+C:\BOSFOR\MODELv35\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\BOSFOR\MODELv35\MODEL\bin\Debug\MODEL.dll
+C:\BOSFOR\MODELv35\MODEL\bin\Debug\MODEL.pdb
+C:\BOSFOR\MODELv35\MODEL\bin\Debug\com.rusanu.DBUtil.dll
+C:\BOSFOR\MODELv35\MODEL\bin\Debug\com.rusanu.DBUtil.pdb
+C:\BOSFOR\MODELv35\MODEL\obj\Debug\MODEL.dll
+C:\BOSFOR\MODELv35\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Bilal\SharePoint\Deniz Köygülü\Projeler\Bilal\MODELv35\bin\Debug\MODEL.dll
+C:\Users\Bilal\SharePoint\Deniz Köygülü\Projeler\Bilal\MODELv35\bin\Debug\MODEL.pdb
+C:\Users\Bilal\SharePoint\Deniz Köygülü\Projeler\Bilal\MODELv35\obj\Debug\MODEL.dll
+C:\Users\Bilal\SharePoint\Deniz Köygülü\Projeler\Bilal\MODELv35\obj\Debug\MODEL.pdb
+C:\Users\Bilal\SharePoint\Deniz Köygülü\Projeler\Bilal\MODELv35\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\BOSFOR\Projeler (Bilal)\MODELv35\bin\Debug\MODEL.dll
+C:\BOSFOR\Projeler (Bilal)\MODELv35\bin\Debug\MODEL.pdb
+C:\BOSFOR\Projeler (Bilal)\MODELv35\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\BOSFOR\Projeler (Bilal)\MODELv35\obj\Debug\MODEL.dll
+C:\BOSFOR\Projeler (Bilal)\MODELv35\obj\Debug\MODEL.pdb
+D:\BOSFOR\Projeler (Bilal)\MODELv35\bin\Debug\MODEL.dll
+D:\BOSFOR\Projeler (Bilal)\MODELv35\bin\Debug\MODEL.pdb
+D:\BOSFOR\Projeler (Bilal)\MODELv35\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+D:\BOSFOR\Projeler (Bilal)\MODELv35\obj\Debug\MODEL.dll
+D:\BOSFOR\Projeler (Bilal)\MODELv35\obj\Debug\MODEL.pdb
+D:\BOSFOR\Projeler Bilal\MODELv35\bin\MODEL.dll
+D:\BOSFOR\Projeler Bilal\MODELv35\bin\MODEL.pdb
+D:\BOSFOR\Projeler Bilal\MODELv35\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+D:\BOSFOR\Projeler Bilal\MODELv35\obj\Debug\MODEL.dll
+D:\BOSFOR\Projeler Bilal\MODELv35\obj\Debug\MODEL.pdb
+D:\BOSFOR\Projeler Bilal\MODELv35\obj\Debug\MODEL.csprojAssemblyReference.cache
+D:\BOSFOR\Projeler Tamer\B2B_CW\MODELv35\bin\MODEL.dll
+D:\BOSFOR\Projeler Tamer\B2B_CW\MODELv35\bin\MODEL.pdb
+D:\BOSFOR\Projeler Tamer\B2B_CW\MODELv35\obj\Debug\MODEL.csprojAssemblyReference.cache
+D:\BOSFOR\Projeler Tamer\B2B_CW\MODELv35\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+D:\BOSFOR\Projeler Tamer\B2B_CW\MODELv35\obj\Debug\MODEL.dll
+D:\BOSFOR\Projeler Tamer\B2B_CW\MODELv35\obj\Debug\MODEL.pdb
+C:\Users\ozan\Desktop\B2B_CW 29042020\B2B_CW\MODELv35\bin\MODEL.dll
+C:\Users\ozan\Desktop\B2B_CW 29042020\B2B_CW\MODELv35\bin\MODEL.pdb
+C:\Users\ozan\Desktop\B2B_CW 29042020\B2B_CW\MODELv35\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\ozan\Desktop\B2B_CW 29042020\B2B_CW\MODELv35\obj\Debug\MODEL.dll
+C:\Users\ozan\Desktop\B2B_CW 29042020\B2B_CW\MODELv35\obj\Debug\MODEL.pdb
+C:\Users\ozan\Desktop\B2B_CW 05052020\B2B_CW 05052020\B2B_CW\MODELv35\bin\MODEL.dll
+C:\Users\ozan\Desktop\B2B_CW 05052020\B2B_CW 05052020\B2B_CW\MODELv35\bin\MODEL.pdb
+C:\Users\ozan\Desktop\B2B_CW 05052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\ozan\Desktop\B2B_CW 05052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\ozan\Desktop\B2B_CW 05052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Debug\MODEL.dll
+C:\Users\ozan\Desktop\B2B_CW 05052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Debug\MODEL.pdb
+C:\Users\ozan\Desktop\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\bin\MODEL.dll
+C:\Users\ozan\Desktop\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\bin\MODEL.pdb
+C:\Users\ozan\Desktop\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\ozan\Desktop\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\ozan\Desktop\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Debug\MODEL.dll
+C:\Users\ozan\Desktop\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Debug\MODEL.pdb
+D:\masaüstü\CWW\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\bin\MODEL.dll
+D:\masaüstü\CWW\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\bin\MODEL.pdb
+D:\masaüstü\CWW\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Debug\MODEL.csprojAssemblyReference.cache
+D:\masaüstü\CWW\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+D:\masaüstü\CWW\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Debug\MODEL.dll
+D:\masaüstü\CWW\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Debug\MODEL.pdb
+C:\Users\Bosfor5\Desktop\MARKOÇET\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\bin\MODEL.dll
+C:\Users\Bosfor5\Desktop\MARKOÇET\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\bin\MODEL.pdb
+C:\Users\Bosfor5\Desktop\MARKOÇET\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Bosfor5\Desktop\MARKOÇET\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Debug\MODEL.dll
+C:\Users\Bosfor5\Desktop\MARKOÇET\B2B_CW 20052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Debug\MODEL.pdb
+C:\Users\Bosfor5\Desktop\B2B_CW\MODELv35\bin\MODEL.dll
+C:\Users\Bosfor5\Desktop\B2B_CW\MODELv35\bin\MODEL.pdb
+C:\Users\Bosfor5\Desktop\B2B_CW\MODELv35\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\Bosfor5\Desktop\B2B_CW\MODELv35\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Bosfor5\Desktop\B2B_CW\MODELv35\obj\Debug\MODEL.dll
+C:\Users\Bosfor5\Desktop\B2B_CW\MODELv35\obj\Debug\MODEL.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\ZemZem B2B\MODELv35\bin\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\ZemZem B2B\MODELv35\bin\MODEL.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\ZemZem B2B\MODELv35\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Bosfor5\Desktop\PROJELER\ZemZem B2B\MODELv35\obj\Debug\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\ZemZem B2B\MODELv35\obj\Debug\MODEL.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\ASP.NET Web Applications\B2B\ZemZem B2B\MODELv35\bin\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\ASP.NET Web Applications\B2B\ZemZem B2B\MODELv35\bin\MODEL.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\ASP.NET Web Applications\B2B\ZemZem B2B\MODELv35\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Bosfor5\Desktop\PROJELER\ASP.NET Web Applications\B2B\ZemZem B2B\MODELv35\obj\Debug\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\ASP.NET Web Applications\B2B\ZemZem B2B\MODELv35\obj\Debug\MODEL.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\ASP.NET Web Applications\B2B\ZemZem B2B\MODELv35\obj\Debug\MODEL.csproj.AssemblyReference.cache
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\bin\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\bin\MODEL.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Debug\MODEL.csproj.AssemblyReference.cache
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Debug\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Debug\MODEL.pdb
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\bin\MODEL.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\bin\MODEL.pdb
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Debug\MODEL.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Debug\MODEL.pdb
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Debug\MODEL.csproj.AssemblyReference.cache

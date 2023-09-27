@@ -1,0 +1,52 @@
+C:\Users\Bilal\SharePoint\Deniz Köygülü\Projeler\Bilal\MODELv35\obj\Release\MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\SharePoint\Deniz Köygülü\Projeler\Bilal\MODELv35\bin\Release\MODEL.dll
+C:\Users\Bilal\SharePoint\Deniz Köygülü\Projeler\Bilal\MODELv35\bin\Release\MODEL.pdb
+C:\Users\Bilal\SharePoint\Deniz Köygülü\Projeler\Bilal\MODELv35\obj\Release\MODEL.dll
+C:\Users\Bilal\SharePoint\Deniz Köygülü\Projeler\Bilal\MODELv35\obj\Release\MODEL.pdb
+D:\BOSFOR\Projeler Bilal\MODELv35\bin\Release\MODEL.dll
+D:\BOSFOR\Projeler Bilal\MODELv35\bin\Release\MODEL.pdb
+D:\BOSFOR\Projeler Bilal\MODELv35\obj\Release\MODEL.dll
+D:\BOSFOR\Projeler Bilal\MODELv35\obj\Release\MODEL.pdb
+D:\BOSFOR\Projeler Bilal\MODELv35\obj\Release\MODEL.csprojAssemblyReference.cache
+D:\BOSFOR\Projeler Bilal\MODELv35\obj\Release\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\ozan\Desktop\B2B_CW 29042020\B2B_CW\MODELv35\bin\Release\MODEL.dll
+C:\Users\ozan\Desktop\B2B_CW 29042020\B2B_CW\MODELv35\bin\Release\MODEL.pdb
+C:\Users\ozan\Desktop\B2B_CW 29042020\B2B_CW\MODELv35\obj\Release\MODEL.csprojAssemblyReference.cache
+C:\Users\ozan\Desktop\B2B_CW 29042020\B2B_CW\MODELv35\obj\Release\MODEL.dll
+C:\Users\ozan\Desktop\B2B_CW 29042020\B2B_CW\MODELv35\obj\Release\MODEL.pdb
+C:\Users\ozan\Desktop\B2B_CW 05052020\B2B_CW 05052020\B2B_CW\MODELv35\bin\Release\MODEL.dll
+C:\Users\ozan\Desktop\B2B_CW 05052020\B2B_CW 05052020\B2B_CW\MODELv35\bin\Release\MODEL.pdb
+C:\Users\ozan\Desktop\B2B_CW 05052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Release\MODEL.csprojAssemblyReference.cache
+C:\Users\ozan\Desktop\B2B_CW 05052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Release\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\ozan\Desktop\B2B_CW 05052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Release\MODEL.dll
+C:\Users\ozan\Desktop\B2B_CW 05052020\B2B_CW 05052020\B2B_CW\MODELv35\obj\Release\MODEL.pdb
+C:\Users\Bosfor5\Desktop\B2B_CW\MODELv35\bin\Release\MODEL.dll
+C:\Users\Bosfor5\Desktop\B2B_CW\MODELv35\bin\Release\MODEL.pdb
+C:\Users\Bosfor5\Desktop\B2B_CW\MODELv35\obj\Release\MODEL.csprojAssemblyReference.cache
+C:\Users\Bosfor5\Desktop\B2B_CW\MODELv35\obj\Release\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Bosfor5\Desktop\B2B_CW\MODELv35\obj\Release\MODEL.dll
+C:\Users\Bosfor5\Desktop\B2B_CW\MODELv35\obj\Release\MODEL.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\ZemZem B2B\MODELv35\bin\Release\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\ZemZem B2B\MODELv35\bin\Release\MODEL.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\ZemZem B2B\MODELv35\obj\Release\MODEL.csprojAssemblyReference.cache
+C:\Users\Bosfor5\Desktop\PROJELER\ZemZem B2B\MODELv35\obj\Release\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Bosfor5\Desktop\PROJELER\ZemZem B2B\MODELv35\obj\Release\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\ZemZem B2B\MODELv35\obj\Release\MODEL.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\ASP.NET Web Applications\B2B\ZemZem B2B\MODELv35\bin\Release\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\ASP.NET Web Applications\B2B\ZemZem B2B\MODELv35\bin\Release\MODEL.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\ASP.NET Web Applications\B2B\ZemZem B2B\MODELv35\obj\Release\MODEL.csproj.AssemblyReference.cache
+C:\Users\Bosfor5\Desktop\PROJELER\ASP.NET Web Applications\B2B\ZemZem B2B\MODELv35\obj\Release\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Bosfor5\Desktop\PROJELER\ASP.NET Web Applications\B2B\ZemZem B2B\MODELv35\obj\Release\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\ASP.NET Web Applications\B2B\ZemZem B2B\MODELv35\obj\Release\MODEL.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\bin\Release\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\bin\Release\MODEL.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Release\MODEL.csproj.AssemblyReference.cache
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Release\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Release\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Release\MODEL.pdb
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\bin\Release\MODEL.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\bin\Release\MODEL.pdb
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Release\MODEL.csproj.AssemblyReference.cache
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Release\MODEL.csproj.CoreCompileInputs.cache
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Release\MODEL.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\Release\MODEL.pdb

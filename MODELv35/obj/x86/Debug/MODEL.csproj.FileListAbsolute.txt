@@ -1,0 +1,28 @@
+C:\BOSFOR\Projeler (Bilal)\MODELv35\bin\x86\Debug\MODEL.dll
+C:\BOSFOR\Projeler (Bilal)\MODELv35\bin\x86\Debug\MODEL.pdb
+C:\BOSFOR\Projeler (Bilal)\MODELv35\obj\x86\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\BOSFOR\Projeler (Bilal)\MODELv35\obj\x86\Debug\MODEL.dll
+C:\BOSFOR\Projeler (Bilal)\MODELv35\obj\x86\Debug\MODEL.pdb
+D:\BOSFOR\Projeler (Bilal)\MODELv35\bin\x86\Debug\MODEL.dll
+D:\BOSFOR\Projeler (Bilal)\MODELv35\bin\x86\Debug\MODEL.pdb
+D:\BOSFOR\Projeler (Bilal)\MODELv35\obj\x86\Debug\MODEL.csprojResolveAssemblyReference.cache
+D:\BOSFOR\Projeler (Bilal)\MODELv35\obj\x86\Debug\MODEL.dll
+D:\BOSFOR\Projeler (Bilal)\MODELv35\obj\x86\Debug\MODEL.pdb
+D:\BOSFOR\Projeler Bilal\MODELv35\bin\x86\Debug\MODEL.dll
+D:\BOSFOR\Projeler Bilal\MODELv35\bin\x86\Debug\MODEL.pdb
+D:\BOSFOR\Projeler Bilal\MODELv35\obj\x86\Debug\MODEL.csproj.CoreCompileInputs.cache
+D:\BOSFOR\Projeler Bilal\MODELv35\obj\x86\Debug\MODEL.dll
+D:\BOSFOR\Projeler Bilal\MODELv35\obj\x86\Debug\MODEL.pdb
+D:\BOSFOR\Projeler Bilal\MODELv35\obj\x86\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\bin\x86\Debug\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\bin\x86\Debug\MODEL.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\x86\Debug\MODEL.csproj.AssemblyReference.cache
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\x86\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\x86\Debug\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\x86\Debug\MODEL.pdb
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\x86\Debug\MODEL.csproj.AssemblyReference.cache
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\x86\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\x86\Debug\MODEL.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\x86\Debug\MODEL.pdb
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\bin\x86\Debug\MODEL.dll
+C:\Bosfor\Projeler MehmetCan\BEDSOPİA\Bedsopia Prime Travel\MODELv35\bin\x86\Debug\MODEL.pdb

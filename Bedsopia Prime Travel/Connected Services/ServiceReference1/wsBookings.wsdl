@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://juniper.es/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://juniper.es/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://juniper.es/">
+      <s:element name="getBookings">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="user" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BookingDateFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BookingDateTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BookingTimeFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BookingTimeTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BeginTravelDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EndTravelDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="LastModifiedDateFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="LastModifiedDateTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="LastModifiedTimeFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="LastModifiedTimeTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BookingCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Status" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="id" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ExportMode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="channel" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ModuleType" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="IdBooking" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="AgencyRef" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BeginTravelDateFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BeginTravelDateTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EndTravelDateFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EndTravelDateTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PackageBookings" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BlockedBookings" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getBookingsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getBookingsResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getBookingList">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="user" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BookingDateFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BookingDateTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BookingTimeFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BookingTimeTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BeginTravelDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EndTravelDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="LastModifiedDateFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="LastModifiedDateTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="LastModifiedTimeFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="LastModifiedTimeTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Status" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="id" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="channel" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ModuleType" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BeginTravelDateFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BeginTravelDateTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EndTravelDateFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EndTravelDateTo" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="NonRefundable" nillable="true" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="PackageBookings" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BlockedBookings" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getBookingListResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getBookingListResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getSellIndirectCommissions">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="user" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CustomerID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BookingCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BookingDateFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BookingDateTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BeginTravelDateFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="BeginTravelDateTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EndTravelDateFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EndTravelDateTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="SettledStatus" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getSellIndirectCommissionsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getSellIndirectCommissionsResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="showModuleType">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="user" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="showModuleTypeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="showModuleTypeResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="setBookingDocuments">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="user" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="bookingCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="lineBookingCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="urlFile" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fileType" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="descriptionFile" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="setBookingDocumentsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="setBookingDocumentsResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="getBookingsSoapIn">
+    <wsdl:part name="parameters" element="tns:getBookings" />
+  </wsdl:message>
+  <wsdl:message name="getBookingsSoapOut">
+    <wsdl:part name="parameters" element="tns:getBookingsResponse" />
+  </wsdl:message>
+  <wsdl:message name="getBookingListSoapIn">
+    <wsdl:part name="parameters" element="tns:getBookingList" />
+  </wsdl:message>
+  <wsdl:message name="getBookingListSoapOut">
+    <wsdl:part name="parameters" element="tns:getBookingListResponse" />
+  </wsdl:message>
+  <wsdl:message name="getSellIndirectCommissionsSoapIn">
+    <wsdl:part name="parameters" element="tns:getSellIndirectCommissions" />
+  </wsdl:message>
+  <wsdl:message name="getSellIndirectCommissionsSoapOut">
+    <wsdl:part name="parameters" element="tns:getSellIndirectCommissionsResponse" />
+  </wsdl:message>
+  <wsdl:message name="showModuleTypeSoapIn">
+    <wsdl:part name="parameters" element="tns:showModuleType" />
+  </wsdl:message>
+  <wsdl:message name="showModuleTypeSoapOut">
+    <wsdl:part name="parameters" element="tns:showModuleTypeResponse" />
+  </wsdl:message>
+  <wsdl:message name="setBookingDocumentsSoapIn">
+    <wsdl:part name="parameters" element="tns:setBookingDocuments" />
+  </wsdl:message>
+  <wsdl:message name="setBookingDocumentsSoapOut">
+    <wsdl:part name="parameters" element="tns:setBookingDocumentsResponse" />
+  </wsdl:message>
+  <wsdl:message name="getBookingsHttpPostIn">
+    <wsdl:part name="user" type="s:string" />
+    <wsdl:part name="password" type="s:string" />
+    <wsdl:part name="BookingDateFrom" type="s:string" />
+    <wsdl:part name="BookingDateTo" type="s:string" />
+    <wsdl:part name="BookingTimeFrom" type="s:string" />
+    <wsdl:part name="BookingTimeTo" type="s:string" />
+    <wsdl:part name="BeginTravelDate" type="s:string" />
+    <wsdl:part name="EndTravelDate" type="s:string" />
+    <wsdl:part name="LastModifiedDateFrom" type="s:string" />
+    <wsdl:part name="LastModifiedDateTo" type="s:string" />
+    <wsdl:part name="LastModifiedTimeFrom" type="s:string" />
+    <wsdl:part name="LastModifiedTimeTo" type="s:string" />
+    <wsdl:part name="BookingCode" type="s:string" />
+    <wsdl:part name="Status" type="s:string" />
+    <wsdl:part name="id" type="s:string" />
+    <wsdl:part name="ExportMode" type="s:string" />
+    <wsdl:part name="channel" type="s:string" />
+    <wsdl:part name="ModuleType" type="s:string" />
+    <wsdl:part name="IdBooking" type="s:string" />
+    <wsdl:part name="AgencyRef" type="s:string" />
+    <wsdl:part name="BeginTravelDateFrom" type="s:string" />
+    <wsdl:part name="BeginTravelDateTo" type="s:string" />
+    <wsdl:part name="EndTravelDateFrom" type="s:string" />
+    <wsdl:part name="EndTravelDateTo" type="s:string" />
+    <wsdl:part name="PackageBookings" type="s:string" />
+    <wsdl:part name="BlockedBookings" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="getBookingsHttpPostOut">
+    <wsdl:part name="Body" />
+  </wsdl:message>
+  <wsdl:message name="getSellIndirectCommissionsHttpPostIn">
+    <wsdl:part name="user" type="s:string" />
+    <wsdl:part name="password" type="s:string" />
+    <wsdl:part name="CustomerID" type="s:string" />
+    <wsdl:part name="BookingCode" type="s:string" />
+    <wsdl:part name="BookingDateFrom" type="s:string" />
+    <wsdl:part name="BookingDateTo" type="s:string" />
+    <wsdl:part name="BeginTravelDateFrom" type="s:string" />
+    <wsdl:part name="BeginTravelDateTo" type="s:string" />
+    <wsdl:part name="EndTravelDateFrom" type="s:string" />
+    <wsdl:part name="EndTravelDateTo" type="s:string" />
+    <wsdl:part name="SettledStatus" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="getSellIndirectCommissionsHttpPostOut">
+    <wsdl:part name="Body" />
+  </wsdl:message>
+  <wsdl:message name="showModuleTypeHttpPostIn">
+    <wsdl:part name="user" type="s:string" />
+    <wsdl:part name="password" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="showModuleTypeHttpPostOut">
+    <wsdl:part name="Body" />
+  </wsdl:message>
+  <wsdl:message name="setBookingDocumentsHttpPostIn">
+    <wsdl:part name="user" type="s:string" />
+    <wsdl:part name="password" type="s:string" />
+    <wsdl:part name="bookingCode" type="s:string" />
+    <wsdl:part name="lineBookingCode" type="s:string" />
+    <wsdl:part name="urlFile" type="s:string" />
+    <wsdl:part name="fileType" type="s:string" />
+    <wsdl:part name="descriptionFile" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="setBookingDocumentsHttpPostOut">
+    <wsdl:part name="Body" />
+  </wsdl:message>
+  <wsdl:portType name="wsBookingsSoap">
+    <wsdl:operation name="getBookings">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get booking list. BookingDateFrom,BookingDateTo; ,BookingTimeFrom,BookingTimeTo format:HHmm:ss ; ,BeginTravelDate,EndTravelDate format: yyyyMMdd ; BookingCode: Locator code ; ,LastModifiedDateFrom,LastModifiedDateTo format: yyyyMMddHHmm ; LastModifiedTimeFrom,LastModifiedTimeTo format:HHmm:ss ;,Status: Status of the booking ; Id: Id from Customer; ExportMode C-Consult, E-Export, IdBooking: Id from Booking; BeginTravelDateFrom format:yyyyMMdd; BeginTravelDateTo format:yyyyMMdd; EndTravelDateFrom format:yyyyMMdd; EndTravelDateTo format:yyyyMMdd; PackageBookings allowed values (All/Include/Exclude); BlockedBookings allowed values (All/Include/Exclude)</wsdl:documentation>
+      <wsdl:input message="tns:getBookingsSoapIn" />
+      <wsdl:output message="tns:getBookingsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getBookingList">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Basic Booking Data List. BookingDateFrom,BookingDateTo; ,BookingTimeFrom,BookingTimeTo format:HHmm:ss ; ,BeginTravelDate,EndTravelDate format: yyyyMMdd ; ,LastModifiedDateFrom,LastModifiedDateTo format: yyyyMMddHHmm ; LastModifiedTimeFrom,LastModifiedTimeTo format:HHmm:ss ;,Status: Status of the booking ; Id: Id from Customer; BeginTravelDateFrom format:yyyyMMdd; BeginTravelDateTo format:yyyyMMdd; EndTravelDateFrom format:yyyyMMdd; EndTravelDateTo format:yyyyMMdd; NonRefundableBookings allowed values (True/False); PackageBookings allowed values (All/Include/Exclude); BlockedBookings allowed values (All/Include/Exclude)</wsdl:documentation>
+      <wsdl:input message="tns:getBookingListSoapIn" />
+      <wsdl:output message="tns:getBookingListSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getSellIndirectCommissions">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Indirect Commissions List. CustomerID: Id from Customer; ,BookingCode; BookingDateFrom, BookingDateTo format: yyyyMMdd; ,BeginTravelDateFrom, BeginTravelDateTo format: yyyyMMdd ; ,EndTravelDateFrom,EndTravelDateTo format: yyyyMMdd; ,SettledStatus allowed values: void, Pending settled and Settled (&lt;b&gt;P&lt;/b&gt;/&lt;b&gt;S&lt;/b&gt;)</wsdl:documentation>
+      <wsdl:input message="tns:getSellIndirectCommissionsSoapIn" />
+      <wsdl:output message="tns:getSellIndirectCommissionsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="showModuleType">
+      <wsdl:input message="tns:showModuleTypeSoapIn" />
+      <wsdl:output message="tns:showModuleTypeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="setBookingDocuments">
+      <wsdl:input message="tns:setBookingDocumentsSoapIn" />
+      <wsdl:output message="tns:setBookingDocumentsSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="wsBookingsHttpPost">
+    <wsdl:operation name="getBookings">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get booking list. BookingDateFrom,BookingDateTo; ,BookingTimeFrom,BookingTimeTo format:HHmm:ss ; ,BeginTravelDate,EndTravelDate format: yyyyMMdd ; BookingCode: Locator code ; ,LastModifiedDateFrom,LastModifiedDateTo format: yyyyMMddHHmm ; LastModifiedTimeFrom,LastModifiedTimeTo format:HHmm:ss ;,Status: Status of the booking ; Id: Id from Customer; ExportMode C-Consult, E-Export, IdBooking: Id from Booking; BeginTravelDateFrom format:yyyyMMdd; BeginTravelDateTo format:yyyyMMdd; EndTravelDateFrom format:yyyyMMdd; EndTravelDateTo format:yyyyMMdd; PackageBookings allowed values (All/Include/Exclude); BlockedBookings allowed values (All/Include/Exclude)</wsdl:documentation>
+      <wsdl:input message="tns:getBookingsHttpPostIn" />
+      <wsdl:output message="tns:getBookingsHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getSellIndirectCommissions">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Indirect Commissions List. CustomerID: Id from Customer; ,BookingCode; BookingDateFrom, BookingDateTo format: yyyyMMdd; ,BeginTravelDateFrom, BeginTravelDateTo format: yyyyMMdd ; ,EndTravelDateFrom,EndTravelDateTo format: yyyyMMdd; ,SettledStatus allowed values: void, Pending settled and Settled (&lt;b&gt;P&lt;/b&gt;/&lt;b&gt;S&lt;/b&gt;)</wsdl:documentation>
+      <wsdl:input message="tns:getSellIndirectCommissionsHttpPostIn" />
+      <wsdl:output message="tns:getSellIndirectCommissionsHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="showModuleType">
+      <wsdl:input message="tns:showModuleTypeHttpPostIn" />
+      <wsdl:output message="tns:showModuleTypeHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="setBookingDocuments">
+      <wsdl:input message="tns:setBookingDocumentsHttpPostIn" />
+      <wsdl:output message="tns:setBookingDocumentsHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="wsBookingsSoap" type="tns:wsBookingsSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getBookings">
+      <soap:operation soapAction="http://juniper.es/getBookings" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getBookingList">
+      <soap:operation soapAction="http://juniper.es/getBookingList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSellIndirectCommissions">
+      <soap:operation soapAction="http://juniper.es/getSellIndirectCommissions" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="showModuleType">
+      <soap:operation soapAction="http://juniper.es/showModuleType" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setBookingDocuments">
+      <soap:operation soapAction="http://juniper.es/setBookingDocuments" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="wsBookingsSoap12" type="tns:wsBookingsSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getBookings">
+      <soap12:operation soapAction="http://juniper.es/getBookings" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getBookingList">
+      <soap12:operation soapAction="http://juniper.es/getBookingList" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSellIndirectCommissions">
+      <soap12:operation soapAction="http://juniper.es/getSellIndirectCommissions" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="showModuleType">
+      <soap12:operation soapAction="http://juniper.es/showModuleType" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setBookingDocuments">
+      <soap12:operation soapAction="http://juniper.es/setBookingDocuments" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="wsBookingsHttpPost" type="tns:wsBookingsHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="getBookings">
+      <http:operation location="/getBookings" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="Body" type="text/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSellIndirectCommissions">
+      <http:operation location="/getSellIndirectCommissions" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="Body" type="text/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="showModuleType">
+      <http:operation location="/showModuleType" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="Body" type="text/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setBookingDocuments">
+      <http:operation location="/setBookingDocuments" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="Body" type="text/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="wsBookings">
+    <wsdl:port name="wsBookingsSoap" binding="tns:wsBookingsSoap">
+      <soap:address location="http://www.bedsopia.com/wsExportacion/wsBookings.asmx" />
+    </wsdl:port>
+    <wsdl:port name="wsBookingsSoap12" binding="tns:wsBookingsSoap12">
+      <soap12:address location="http://www.bedsopia.com/wsExportacion/wsBookings.asmx" />
+    </wsdl:port>
+    <wsdl:port name="wsBookingsHttpPost" binding="tns:wsBookingsHttpPost">
+      <http:address location="http://www.bedsopia.com/wsExportacion/wsBookings.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

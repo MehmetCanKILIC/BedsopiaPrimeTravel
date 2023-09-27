@@ -1,0 +1,6 @@
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\bin\Release\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\bin\Release\MODEL.pdb
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\x86\Release\MODEL.csproj.AssemblyReference.cache
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\x86\Release\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\x86\Release\MODEL.dll
+C:\Users\Bosfor5\Desktop\PROJELER\BEDSOPİA\Bedsopia Prime Travel\MODELv35\obj\x86\Release\MODEL.pdb

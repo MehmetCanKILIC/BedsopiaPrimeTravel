@@ -1,0 +1,7 @@
+C:\BOSFOR\Projeler (Bilal)\MODELv35\MODEL\bin\Release\MODEL.dll
+C:\BOSFOR\Projeler (Bilal)\MODELv35\MODEL\bin\Release\MODEL.pdb
+C:\BOSFOR\Projeler (Bilal)\MODELv35\MODEL\bin\Release\com.rusanu.DBUtil.dll
+C:\BOSFOR\Projeler (Bilal)\MODELv35\MODEL\bin\Release\com.rusanu.DBUtil.pdb
+C:\BOSFOR\Projeler (Bilal)\MODELv35\MODEL\obj\Release\MODEL.csprojResolveAssemblyReference.cache
+C:\BOSFOR\Projeler (Bilal)\MODELv35\MODEL\obj\Release\MODEL.dll
+C:\BOSFOR\Projeler (Bilal)\MODELv35\MODEL\obj\Release\MODEL.pdb
